@@ -1,6 +1,6 @@
 👋 Hello, I'm Princy!
 
-💻 Front-End Developer | 📊 Data Scientist
+💻 Front-End Developer
 
 🔍 Experienced in data science, analytics, and proficient with tools in the field.
 
